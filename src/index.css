@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Kalnia:wght@200;300;400;500;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Hedvig+Letters+Serif:opsz@12..24&family=Kalnia:wght@200;300;400;500;600;700&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+*, *::after, *::before{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+header, footer{
+  font-family: "Kalnia", sans-serif;
+  font-size: larger;
+}
+
+
+main{
+  font-family: 'Times New Roman', Times, serif;
+  min-height: 100vh;
+  margin: 1rem;
+}
+
+p{
+  white-space: normal;
+}

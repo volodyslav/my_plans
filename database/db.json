@@ -1,0 +1,102 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "Hello",
+      "text": "Wanna be here for long time",
+      "author": "Me",
+      "date_added": "15 01 2000, 10:10:10"
+    },
+    {
+      "id": 2,
+      "title": "Hello",
+      "text": "Wanna be here for long time",
+      "author": "Me",
+      "date_added": "15 01 2000, 10:10:10"
+    },
+    {
+      "id": 3,
+      "title": "Hello",
+      "text": "Wanna be here for long time",
+      "author": "Me",
+      "date_added": "15 01 2000, 10:10:10"
+    },
+    {
+      "id": 4,
+      "title": "Hello",
+      "text": "Wanna be here for long time",
+      "author": "Me",
+      "date_added": "15 01 2000, 10:10:10"
+    },
+    {
+      "id": "3b4d80c1-1aba-4b3a-9012-1ba6a5fcabf7",
+      "title": "sdgsdg",
+      "text": "sdgsd",
+      "date_added": "12/14/2023, 05:41",
+      "author": "gsdgsdg"
+    },
+    {
+      "id": "e724e28d-eacc-4fd8-9694-b752f84f2ef3",
+      "title": "xdgxdg",
+      "text": "xdggxd",
+      "date_added": "12/14/2023, 06:23",
+      "author": "dxgdg"
+    },
+    {
+      "id": "3ed77abb-e032-44ba-ba51-4165e6a7ae30",
+      "title": "dxg",
+      "text": "gdg",
+      "date_added": "12/14/2023, 06:24",
+      "author": "dxg"
+    },
+    {
+      "id": "0b1c1593-64b5-4c12-b93e-156f4b53d85a",
+      "title": "xdgxdg",
+      "text": "dxg",
+      "date_added": "12/14/2023, 06:24",
+      "author": "gxdg"
+    },
+    {
+      "id": "b310085c-9dc9-4bac-bd14-f3ce6a8cc778",
+      "title": "xdgdg",
+      "text": "xdgxdg",
+      "date_added": "12/14/2023, 06:24",
+      "author": "dxgxg"
+    },
+    {
+      "id": "05270c56-10ba-441d-992e-96127e39d0cf",
+      "title": "xdgxdg",
+      "text": "xdg",
+      "date_added": "12/14/2023, 06:24",
+      "author": "dgxd"
+    },
+    {
+      "id": "9babba4e-d813-49ad-95d9-70c5853ecd7a",
+      "title": "xdgxdg",
+      "text": "xdgdxg",
+      "date_added": "12/14/2023, 06:24",
+      "author": "xdgdxg"
+    },
+    {
+      "id": "0cea0116-08f6-409d-ae83-b3247050f314",
+      "title": "gddg",
+      "text": "dgdg",
+      "date_added": "12/14/2023, 06:24",
+      "author": "dxgdx"
+    },
+    {
+      "id": "b0397035-eeba-454c-8f54-ac7008dcd377",
+      "title": "sdgdsg",
+      "text": "sdgdsg",
+      "date_added": "12/14/2023, 06:24",
+      "author": "sdgs"
+    },
+    {
+      "id": "859e8907-44f3-4fed-9f70-7670cd55b40e",
+      "title": "sgds",
+      "text": "gdsg",
+      "date_added": "12/14/2023, 06:24",
+      "author": "sdg"
+    }
+  ]
+}
