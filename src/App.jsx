@@ -15,11 +15,6 @@ function App() {
   const [search, setSearch] = useState("")
   const [searchResult, setSearchResult] = useState([])
 
- 
-    
-    
-  
-
   useEffect(() => {
     const searchFilter = posts.filter(post => post.title.toLowerCase().includes(search.toLowerCase()) || post.text.toLowerCase().includes(search.toLowerCase()));
     setSearchResult(searchFilter);
